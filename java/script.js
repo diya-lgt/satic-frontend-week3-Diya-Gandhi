@@ -1,4 +1,3 @@
-
 const navToggle=document.querySelector(".nav-toggle")
 const header=document.querySelector(".header")
 
@@ -26,7 +25,7 @@ el.classList.add("active")
 window.addEventListener("scroll",reveal)
 
 
-/* CONTACT FORM VALIDATION */
+
 
 const form = document.getElementById("contact-form")
 
